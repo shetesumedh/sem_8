@@ -14,7 +14,7 @@ for DL
 upload the files on jupyter notebook or google colab
 
 in order to make files on linux executable you need to add permission. to add permission do:
-do to the required directory and then type the following command. 
+go to the required directory and then type the following command. 
 ex. you want to run 01_parallel_bfs then type
 
 ```
